@@ -4,8 +4,8 @@
   </a>
 </p>
 <p align="center">
-Blending design thinking with functional development<br>
-Crafting intuitive and responsive digital experiences<br>
-Focused on performance, security, and scalability<br>
-Always learning, building, and improving
+  Blending design thinking with functional development<br>
+  Crafting intuitive and responsive digital experiences<br>
+  Focused on performance, security, and scalability<br>
+  Always learning, building, and improving
 </p>
