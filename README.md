@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=Samrudhi+Panigrahi" alt="Typing SVG" /></a>
-<h2 align="center">About Me</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=500&size=30&pause=1000&color=BEF733&width=435&lines=Samrudhi+Panigrahi)](https://git.io/typing-svg)
 
 <p align="center">
 Blending design thinking with functional development<br>
